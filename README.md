@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vasundhra01
-- 👀 I’m interested in Competitive Coding
+- 👀 I’m interested in WebDevelopment
 - 🌱 I’m currently learning Computer Science engineering
 - 📫 How to reach me @vasustudy999@gmail.com
 - 😄 Pronouns: She/Her
