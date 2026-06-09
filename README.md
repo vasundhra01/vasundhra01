@@ -25,7 +25,7 @@ vasundhra = {
     "focus"    : ["Agentic AI", "Distributed Systems", "Web3"],
     "building" : "AI agents that actually do things",
     "stack"    : "Python → C++ → Solidity → everywhere in between",
-    "status"   : "⚡ always shipping",
+    "status"   : "always shipping",
 }
 ```
 
