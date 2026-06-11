@@ -11,7 +11,7 @@
 
 ### `root@vasundhra:~$` building systems that think, scale, and ship.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Agentic+AI+%7C+Distributed+Systems;Building+at+the+intersection+of+AI+%2B+Infrastructure;Python+%7C+C%2B%2B+%7C+Solidity+%7C+React+%7C+GenAI;Currently+shipping+something+new...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Agentic+AI+%7C+Distributed+Systems;Building+at+the+intersection+of+AI+%2B+Infrastructure;Python+%7C+Java+%7C+C%2B%2B+%7C+Solidity+%7C+React+%7C+GenAI;Currently+shipping+something+new...)](https://git.io/typing-svg)
 
 </div>
 
