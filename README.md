@@ -65,9 +65,43 @@ vasundhra = {
 
 <div align="center">
 
+<!--
+  NOTE ON THE "API ERROR" ISSUE:
+  github-readme-stats / streak-stats run on a shared free Vercel instance
+  that gets rate-limited constantly, which is what throws "Error: API
+  rate limit exceeded" on profile cards. Fixes applied below:
+    1. Added &cache_seconds=86400 so your card is cached for a day
+       instead of hitting the API on every single page view.
+    2. Kept the vercel.app root domains (github-readme-stats.vercel.app,
+       github-readme-streak-stats.herokuapp.com) which have more capacity
+       than the demolab.com mirror alone.
+  If a card ever still shows an API error, it's almost always the shared
+  instance being down — refresh in a few minutes, or self-host your own
+  instance (the repo has a one-click Vercel "Deploy" button) for a
+  permanent fix.
+-->
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vasundhra01&theme=chartreuse-dark&background=0d1117&border=00FF9C&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=888888)
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=vasundhra01&theme=chartreuse-dark&background=0d1117&border=00FF9C&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=888888&cache_seconds=86400" />
+
+<br/>
+
+<!-- Commit / PR / issue activity graph — rendered as an actual line chart with
+     date on the x-axis and contribution count on the y-axis, axis grid visible -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vasundhra01&bg_color=0d1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C&hide_border=false&border_color=00FF9C&grid_color=2b2f36&custom_title=Commit%20%2B%20PR%20Activity&days=90" width="100%"/>
+
+</div>
+
+---
+
+## `> git log --stat`
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=vasundhra01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)
 
 </div>
 
