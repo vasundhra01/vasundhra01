@@ -97,16 +97,6 @@ vasundhra = {
 
 ---
 
-## `> git log --stat`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=vasundhra01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)
-
-</div>
-
----
-
 ## `> ping vasundhra`
 
 <div align="center">
